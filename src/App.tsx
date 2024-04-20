@@ -44,7 +44,9 @@ And here. | Okay. | I think we get it.
 1. Use just 1s if you want!
 1. And last but not least, let's not forget embedded images:
 
-![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)`;
+![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
+
+## This markdown Text is inspired from this project- "https://markdown-previewer.freecodecamp.rocks/." . And, ChatGPT was also involved in crafting this.`;
 
 
 function App() {
